@@ -1,7 +1,7 @@
 # 👋🏻 Hi! I'm Andrea
-📧 *Reach me at:* [andrea87023@gmail.com](mailto:andrea87023@gmail.com)
+📧 Reach me at: [andrea87023@gmail.com](mailto:andrea87023@gmail.com)
 
-💼 *LinkedIn:* [linkedin.com/in/and-ferradas](https://www.linkedin.com/in/and-ferradas)
+💼 LinkedIn: [linkedin.com/in/and-ferradas](https://www.linkedin.com/in/and-ferradas)
 
 🎓 I'm a Computer Engineering student with a passion for writing clean code, designing elegant systems, and exploring new technologies daily.
 
@@ -45,7 +45,7 @@
 
 ---
 
-### 🧑🏻‍💻 *Basic Tools*  
+### 🧑🏻‍💻 Basic Tools
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-D83B01?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
