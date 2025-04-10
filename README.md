@@ -5,7 +5,7 @@
 
 🎓 I'm a Computer Engineering student with a passion for writing clean code, designing elegant systems, and exploring new technologies daily.
 
-📍 Based in Spain | 💻 *Future Software Engineer* | 💡 Always curious and building.
+📍 Based in Spain | 💻 Future Software Engineer | 💡 Always curious and building.
 
 ---
 
@@ -45,7 +45,7 @@
 
 ---
 
-### 🧑🏻‍💻 Basic Tools
+## 🧑🏻‍💻 Basic Tools
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-D83B01?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
