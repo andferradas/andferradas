@@ -1,30 +1,31 @@
-# 👋🏻 Hi! I'm Andrea
+# 👋🏻 Hi! I’m Andrea
+
+📍 Spain | 🎓 AI & Computational Engineering Master’s Student
+
+I’m a Computer Engineering graduate currently studying a Master’s Degree in Artificial Intelligence and Computational Engineering.
+
 📧 Reach me at: [andrea87023@gmail.com](mailto:andrea87023@gmail.com)
 
 💼 LinkedIn: [linkedin.com/in/and-ferradas](https://www.linkedin.com/in/and-ferradas)
-
-🎓 I'm a Computer Engineering student with a passion for writing clean code, designing elegant systems, and exploring new technologies daily.
-
-📍 Based in Spain | 💻 Future Software Engineer | 💡 Always curious and building.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
